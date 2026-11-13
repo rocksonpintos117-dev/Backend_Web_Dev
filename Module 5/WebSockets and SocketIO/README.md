@@ -3,7 +3,7 @@
 The backend serves a REST API but has no real-time capability. Users viewing a resource
 have to refresh the page to see new content. Add a Socket.IO server that broadcasts a
 `commentAdded` event to everyone watching a resource whenever a new comment is posted,
-and implement the join, leave, and disconnection lifecycle handlers. You complete one file.
+and implement the join, leave, and disconnection lifecycle handlers. You complete one file..........
 
 ---
 
